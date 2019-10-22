@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1539353891 source:/home/alexis/Documents/SI/Projet/Projet/cube.cpp
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+	<cstdlib>
+	<math.h>
+	<iostream>
+
+1542557704 source:/home/alexis/Documents/SI/Projet/Projet/projet.cpp
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+	<cstdlib>
+	<math.h>
+	<iostream>
+	<jpeglib.h>
+
+1542557704 source:/home/alexandre/Documents/Cours/SyntheseImage/Projet/projet.cpp
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+	<cstdlib>
+	<math.h>
+	<iostream>
+	<jpeglib.h>
+
+1542572432 source:/home/alexandre/Documents/Cours/Projet/projet.cpp
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+	<cstdlib>
+	<math.h>
+	<iostream>
+	<jpeglib.h>
+
